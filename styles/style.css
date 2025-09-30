@@ -77,17 +77,17 @@
 .feed-page .left-aside nav img {
   width: 80px;
 }
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .feed-page .left-aside nav img {
     width: 50px;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .feed-page .left-aside nav {
     align-items: center;
   }
 }
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .feed-page .left-aside nav span {
     display: none;
   }
@@ -121,7 +121,7 @@
 .feed-page .left-aside nav button:hover {
   background-color: rgba(0, 97, 161, 0.5);
 }
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .feed-page .left-aside nav button {
     width: 50px;
     height: 50px;
@@ -137,7 +137,7 @@
   align-items: center;
   gap: 25px;
 }
-@media (max-width: 1000px) {
+@media (max-width: 1300px) {
   .feed-page .left-aside .user-info {
     flex-direction: column;
   }
@@ -151,7 +151,7 @@
   white-space: nowrap;
   font-size: 18px;
 }
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .feed-page .left-aside .user-info p {
     display: none;
   }
@@ -296,7 +296,7 @@
 .feed-page .right-aside {
   padding: 20px;
 }
-@media (max-width: 768px) {
+@media (max-width: 1000px) {
   .feed-page .right-aside {
     display: none;
   }
